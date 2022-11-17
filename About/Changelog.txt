@@ -1,0 +1,4 @@
+# Changelog for AdjacentLight
+
+1.4.0 - First publish
+
